@@ -13,6 +13,7 @@ django-cors-headers = "*"
 whitenoise = "*"
 djangorestframework = "*"
 pillow = "*"
+boto3 = "*"
 
 [dev-packages]
 
